@@ -3,7 +3,7 @@
 Hello Microverse!
 
 Description the project : 
-    This project goal is to know the basics and get used to the process of Github glow and get used to git commands and manipulate the branches
+    the main goal of this pull request is to get to know the basics and practice how Github flow steps are, concedering the professional look of the repo, also trying to have no errors with the linters.
 
 Built With
 Major languages
